@@ -10,6 +10,11 @@
             "email": "m.zhou@ilifeceo.com"
         }
     ],
+    "source": {
+            "url": "https://github.com/muyuto/lianbian-qywx.git",
+            "type": "git",
+            "reference": "master"
+        },
     "require": {
         "yiisoft/yii2": "*"
     },
