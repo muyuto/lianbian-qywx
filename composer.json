@@ -1,0 +1,21 @@
+{
+    "name": "lianbian/yii2-lbqywx",
+    "description": "for qywx by lianbian",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","qywx","lianbian"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "akins.chow",
+            "email": "m.zhou@ilifeceo.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "lianbian\\yii2\\qywx\\": ""
+        }
+    }
+}
